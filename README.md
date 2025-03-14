@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Scum Master
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on data analysis 
 - 📫 How to reach me is on LinkedIn, www.linkedin/in/nwannechidinmado/
 
 <!---
